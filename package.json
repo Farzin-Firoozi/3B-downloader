@@ -8,5 +8,8 @@
   "dependencies": {
     "node-powershell": "^4.0.0",
     "nodejs-file-downloader": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
